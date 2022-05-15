@@ -1,5 +1,5 @@
 body{
-    background: rgb(117, 33, 43);
+    background: radial-gradient(circle, rgba(101,0,11,1) 2%, rgba(22,17,17,0.9752275910364145) 84%);
 }
 .button_costum{
     background-color:lightseagreen; 
@@ -52,6 +52,6 @@ body{
 
   }
   .color_header{
-      background-color: #570e0e;
+    background: radial-gradient(circle, rgba(133,82,82,0.9948354341736695) 22%, rgba(4,1,20,1) 59%);
   }
   
